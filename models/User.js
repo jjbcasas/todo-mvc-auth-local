@@ -1,3 +1,4 @@
+//it takes our plain text password and then hash/salt our password to an encrypted one or hashed version. added security
 const bcrypt = require('bcrypt')
 const mongoose = require('mongoose')
 
